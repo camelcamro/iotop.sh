@@ -126,4 +126,4 @@ MIT License — Free for use and modification.
 
 ## 🧑‍💻 Author
 
-Customized and enhanced by [YourName or TeamName]
+Customized and enhanced by Camel
